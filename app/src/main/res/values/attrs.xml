@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="checkBoxLayout">
+        <attr name="boxCount" format="integer"/>
+        <attr name="boxSrc" format="reference"/>
+        <attr name="checkEnable" format="boolean"/>
+        <attr name="checkedCount" format="integer"/>
+        <attr name="item_margin_right" format="dimension" />
+    </declare-styleable>
+</resources>
