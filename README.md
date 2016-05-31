@@ -1,2 +1,11 @@
 # CheckboxLayout
-the custom widget of checkbox layout
+
+###概述
+
+这是一个评价星星的自定义控件，继承自线性布局。
+
+按照自定义控件的规范来做。在XML中引入该控件，能动态显示控件的样子。
+
+如果代码和xml对同一个属性做了设置，则以代码设置为准。
+
+
